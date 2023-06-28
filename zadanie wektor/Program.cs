@@ -1,7 +1,9 @@
-﻿Wektor v1 = new (1, 2, 3);
+﻿Wektor v1 = new (5, 6, 7);
 Wektor v2 = new (4, 5, 6);
 double skalar = 2.5;
 
+Console.WriteLine($"Wektor 1:  {v1}");
+Console.WriteLine($"Wektor 2:  {v2}");
 Wektor sumaWektorów = Wektor.Suma(v1,v2);
 Console.WriteLine($"Suma wektorów:  {sumaWektorów}");
 
