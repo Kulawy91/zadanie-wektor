@@ -1,4 +1,4 @@
-﻿Wektor v1 = new (1, 2, 3);
+﻿Wektor v1 = new (5, 6, 7);
 Wektor v2 = new (4, 5, 6);
 double skalar = 2.5;
 
